@@ -1,2 +1,2 @@
-# Noor-uddin
-This is my first Git repository
+ # Noor-uddin
+This is my first Github repository
